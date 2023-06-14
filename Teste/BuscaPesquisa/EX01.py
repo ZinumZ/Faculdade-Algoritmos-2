@@ -1,0 +1,1 @@
+#a) Escreva um programa que encontre o índice de um elemento em uma lista.

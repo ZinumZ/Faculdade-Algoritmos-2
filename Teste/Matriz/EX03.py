@@ -1,0 +1,1 @@
+#c) Faça um programa que calcule o produto escalar entre duas matrizes.

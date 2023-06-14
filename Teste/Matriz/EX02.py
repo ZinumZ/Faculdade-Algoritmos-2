@@ -1,0 +1,1 @@
+#b) Crie um programa que verifica se uma matriz é simétrica.

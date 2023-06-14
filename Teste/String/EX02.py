@@ -1,0 +1,1 @@
+#b) Crie um programa que conta o número de ocorrências de uma determinada letra em uma string.

@@ -1,0 +1,1 @@
+#b) Crie um programa que verifique se um elemento está presente em uma lista.
