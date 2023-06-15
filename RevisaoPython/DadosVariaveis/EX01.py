@@ -1,0 +1,5 @@
+print("Tipo do valor: ")
+print(type(15.0))
+print(type("Hello World!"))
+print(type(True))
+print(type(2/2))

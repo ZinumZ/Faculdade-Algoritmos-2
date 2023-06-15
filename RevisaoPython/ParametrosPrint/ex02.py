@@ -1,0 +1,1 @@
+print("{nome}", "{matrícula}", "{disciplina}", "{ano}", sep="-")
