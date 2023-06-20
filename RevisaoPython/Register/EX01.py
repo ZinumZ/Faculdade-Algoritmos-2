@@ -5,3 +5,5 @@ produto2 = ["tomate", 1, 10.50]
 produto3 = ["banana", 9, 8.50]
 carrinho = [produto1, produto2, produto3]
 print(carrinho)
+
+print(produto1[0][0])
