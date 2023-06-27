@@ -1,5 +1,5 @@
 #Faça uma função recursiva que receba uma lista de listas de inteiros e retorne True se verificar que todas as listas da lista tem mais da metade dos seus elementos como zero, senão retorne False
-#[[0,0,3,0],[0,5,0],[0,0,0]]
+#[[0,0,3,0],[0,5,0],[0,0,0]] = True
 
 def verifica_lista(lista):
     sublista = lista[0]
